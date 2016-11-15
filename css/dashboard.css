@@ -1,0 +1,52 @@
+.content-page{
+  margin-top: 40px;
+}
+.item-list{
+  margin-left: -20px;
+}
+.item-list>ul{
+list-style-type: none;
+margin-left: -30px;
+}
+.item-list>ul>li>a{
+  margin-left: 10px;
+}
+.divisa-esquerda{
+  border-left: solid #ddd 2px;
+  padding-left: 20px;
+  margin-left: -20px;
+}
+ul.list-view{
+  list-style-type: none;
+  margin-right: 20px;
+  margin-left: -35px
+}
+ul>.item-view{
+  border-bottom: solid #ddd 2px;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
+}
+.user-nav{
+  float: left;
+}
+
+a.link_chamada{
+  text-decoration: none;
+  color: #999;
+  font-weight: bold;
+}
+
+a.link_chamada:hover{
+  color: #000;
+}
+
+/*Glyphicon size*/
+  .gi-2x{font-size: 2em;}
+
+  .gi-3x{font-size: 3em;}
+
+  .gi-4x{font-size: 4em;}
+
+  .gi-5x{font-size: 5em;}
